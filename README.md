@@ -21,10 +21,19 @@ Each Java file or folder represents an individual program based on a specific pr
 
 New programs may be added over time as part of continued lab work and practice.
 
+## How to Run a Program
+
+Compile:
+javac FileName.java
+
+Run:
+java FileName
+
 ## Purpose
 
 The aim of this repository is to build a strong foundation in Java programming by implementing small console-based applications and practicing object-oriented design principles.
 
+---
 
 *This repository will be updated as more Java programs are completed.*
 
