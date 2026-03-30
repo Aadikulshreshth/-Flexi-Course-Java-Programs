@@ -1,16 +1,15 @@
 # 📘 Java Programming Lab – OOP Practice
 
-This repository contains Java console-based programs developed as part of academic lab practice.
-The primary goal is to strengthen core programming logic and gain a solid understanding of **Object-Oriented Programming (OOP)** concepts in Java.
+This repository contains a collection of **Java console-based programs** developed as part of academic lab work and self-practice. The focus is on building strong programming fundamentals and mastering **Object-Oriented Programming (OOP)** concepts through hands-on implementation.
 
 ---
 
 ## 🎯 Objectives
 
-* Build strong fundamentals in Java programming
-* Practice implementing OOP principles
-* Improve logical thinking through problem-solving
-* Develop clean, modular, and readable code
+* Strengthen core Java programming skills
+* Understand and apply OOP principles effectively
+* Improve logical thinking and problem-solving ability
+* Write clean, modular, and maintainable code
 
 ---
 
@@ -19,24 +18,24 @@ The primary goal is to strengthen core programming logic and gain a solid unders
 * Classes and Objects
 * Constructors
 * Encapsulation
-* Methods and Modular Programming
-* Arrays and ArrayList
+* Inheritance and Method Overriding
+* Polymorphism (runtime behavior)
 * Exception Handling (including Custom Exceptions)
-* Menu-driven Console Applications
+* Arrays and ArrayList
+* Basic Collection Framework (ArrayList, Vector)
 * User Input using Scanner
-* Control Flow (Loops, switch-case, Conditionals)
-* Basic Collection Framework (Vector, ArrayList)
+* Control Flow (Loops, switch-case, conditionals)
+* Menu-driven console applications
 
 ---
 
 ## 🗂 Repository Structure
 
-* Each `.java` file represents a separate lab program.
-* Programs are organized based on specific problem statements or OOP concepts.
-* Code is written in a simple, readable, and beginner-friendly style.
-* Exception handling and input validation are implemented where applicable.
-
-New programs will be added regularly as part of continued lab work and practice.
+* Each `.java` file represents an **individual lab program**
+* Programs are organized based on **concepts and problem statements**
+* Code follows a **simple, readable, beginner-friendly approach**
+* Includes **input validation and exception handling** where necessary
+* Repository is **continuously updated** with new programs
 
 ---
 
@@ -44,19 +43,19 @@ New programs will be added regularly as part of continued lab work and practice.
 
 1. Open terminal in the project directory
 
-2. Compile:
+2. Compile the program:
 
 ```
 javac FileName.java
 ```
 
-3. Run:
+3. Run the program:
 
 ```
 java FileName
 ```
 
-Make sure the file name matches the `public class` name exactly.
+> ⚠️ Ensure that the file name matches the `public class` name exactly.
 
 ---
 
@@ -70,30 +69,29 @@ Make sure the file name matches the `public class` name exactly.
 
 ## 📈 Learning Approach
 
-This repository focuses on:
+This repository emphasizes:
 
 * Writing code from scratch
 * Understanding concepts before optimization
-* Practicing manual logic building
+* Building logic manually
 * Gradually improving code structure and design
 
 ---
 
 ## 🚀 Future Enhancements
 
-* Advanced OOP programs
+* Advanced OOP-based programs
 * File handling
-* Interfaces and Inheritance
-* Polymorphism-based designs
-* Basic GUI applications
+* Interfaces and abstraction
+* Polymorphism-driven designs
+* Basic GUI applications (Java Swing/JavaFX)
+* Small real-world mini projects (e.g., Banking System, Student Management System)
 
 ---
 
 ## 👨‍💻 Author
 
-Developed as part of Java Programming Lab practice and continuous learning.
+Developed as part of **Java Programming Lab practice** and continuous learning.
 
----
-
-*This repository will be updated as more Java programs are completed.*
+This repository will continue to grow as more concepts and programs are explored 🚀
 
