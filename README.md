@@ -29,6 +29,45 @@ This repository contains a collection of **Java console-based programs** develop
 
 ---
 
+## 🧪 Key Programs Included
+
+### 🏦 Banking System
+
+* Supports Savings, Current, and Basic accounts
+* Demonstrates:
+
+  * Inheritance and method overriding
+  * Custom exception handling
+  * Dynamic user input
+  * Account operations (deposit, withdraw)
+
+---
+
+### 👨‍💼 Employee Payroll System
+
+* Supports:
+
+  * Permanent Employees
+  * Contract Employees
+  * Managers
+
+* Features:
+
+  * Dynamic user input for employee creation
+  * Salary calculation using polymorphism
+  * Different salary structures (HRA, DA, Bonus, Hourly pay)
+  * Tax calculation based on salary slabs
+  * Detailed payslip generation
+
+* Concepts demonstrated:
+
+  * Inheritance hierarchy (`Employee → Permanent → Manager`)
+  * Method overriding (`calculateGross()`, `printComponents()`)
+  * Runtime polymorphism using `ArrayList<Employee>`
+  * Clean modular design with reusable methods
+
+---
+
 ## 🗂 Repository Structure
 
 * Each `.java` file represents an **individual lab program**
@@ -84,8 +123,9 @@ This repository emphasizes:
 * File handling
 * Interfaces and abstraction
 * Polymorphism-driven designs
+* Menu-driven systems with persistent data
 * Basic GUI applications (Java Swing/JavaFX)
-* Small real-world mini projects (e.g., Banking System, Student Management System)
+* Mini projects (Banking System, Payroll System enhancements)
 
 ---
 
@@ -94,4 +134,3 @@ This repository emphasizes:
 Developed as part of **Java Programming Lab practice** and continuous learning.
 
 This repository will continue to grow as more concepts and programs are explored 🚀
-
